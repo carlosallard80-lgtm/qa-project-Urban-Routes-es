@@ -14,7 +14,7 @@ del código.
 ## Dependencias
 
 - Python 3
-- Selenium
+- Selenium WebDriver
 - Pytest
 - Chrome
 - ChromeDriver
@@ -43,6 +43,7 @@ del código.
 - Selección de origen y destino
 - Selección de la tarifa Comfort
 - Agregar número de teléfono
+- Confirmación del código SMS
 - Agregar tarjeta de crédito
 - Agregar mensaje para el conductor
 - Solicitar manta y pañuelos
